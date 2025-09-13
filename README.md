@@ -9,10 +9,6 @@
 <!-- This is a list of Kkill Icons provided by skillicons.drv --Whrit By CHenmy -->
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,md,php,cpp,lua,mysql,sqlite,nginx,wordpress,windows,linux,github,twitter,vscode,ps,ai,pr,au,ae,blender,powershell)
 
-#### 成分检测/Skill composition
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benxpawa&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
-
 
 <div style="width: 350px; margin: 50px auto; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #fff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: center;">
         <h2 style="color: #333; margin-bottom: 10px;">联系我/Contact Me</h2>
